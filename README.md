@@ -1,2 +1,2 @@
 # my_project
-text
+text only
